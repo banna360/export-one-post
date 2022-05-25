@@ -1,4 +1,4 @@
-# Export One Post
+# Export One Post and Page
 
 Works on pages and custom post types!
 
